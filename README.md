@@ -20,22 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# TLarge Language Models, uma introdução!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+FOi utilizada uma IA generativa para produção de uma apresentação sobre o assunto em tela
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Foi utilizada a IA gamma(gamma.app) para a produção do solicitado.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi solicitado atravé de um prompt à referida IA que produzisse uma apresentação sobre LLM, como uma breve descrição e aplicaçoes, e como iniciar estudos sobre o tema.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A IA gerou uma apresentação, exibida no browser. Posteriormente, foi solicitada a exportação da apresentação em um arquivo pptx.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A apresentação foi gerada apenas a partir do prompt, e levou 8s para exibir no browser. O conteúdo gerado por qualquer IA generativa deve ser revisado e eventuais erros corrigidos. Sabemos que quanto menos conteúdo disponível sobre um determinado assunto, menos precisas e mais passíveis de erros são os resultados gerados pelas IA's, chegando ao ponto, até mesmo, de serem geradas falsas informações (hallucinations), exigindo cuidados na interpretação e utilização das informações geradas por IA.
 ```
 
 ### Exemplos e Insigths
